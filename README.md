@@ -1,11 +1,13 @@
-#Health Care and Well-Being Systems
+**Health Care and Well-Being Systems**
+
+
 This website is designed to provide a secure and user-friendly platform for users to keep track of their health records (PHRs). It is designed to be easy to use for both patients and caregivers, even if they are not professionally trained.
 
-#Frontend Development
+**Frontend Development**
 
 I have developed a frontend part. The frontend is built using HTML, CSS. The frontend is also responsive, meaning that it will look good on all devices, including desktop computers, laptops, tablets, and smartphones.
 
-#Features
+**Features**
 
 The frontend of this website includes the following features:
 
